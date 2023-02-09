@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Урок №8. Списки", "Урок №8. Списки\Урок №8. Списки.pyproj", "{0CF7B344-EB80-4FBC-8A24-52CE2C60B506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF7B344-EB80-4FBC-8A24-52CE2C60B506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF7B344-EB80-4FBC-8A24-52CE2C60B506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963AE5C9-26A7-45F4-AA8F-AC5050539C76}
+	EndGlobalSection
+EndGlobal

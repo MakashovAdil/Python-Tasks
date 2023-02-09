@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Урок №9. Множества", "Урок №9. Множества\Урок №9. Множества.pyproj", "{3F40F1D8-DE77-487B-A912-DF424CC9F12F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F40F1D8-DE77-487B-A912-DF424CC9F12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F40F1D8-DE77-487B-A912-DF424CC9F12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C756AC4-1C44-4549-9875-C59A637A30C6}
+	EndGlobalSection
+EndGlobal

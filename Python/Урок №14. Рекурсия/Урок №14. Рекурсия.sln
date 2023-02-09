@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Урок №14. Рекурсия", "Урок №14. Рекурсия\Урок №14. Рекурсия.pyproj", "{D7ABA028-DA19-48AD-9AA3-FBB3EB8EE64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7ABA028-DA19-48AD-9AA3-FBB3EB8EE64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7ABA028-DA19-48AD-9AA3-FBB3EB8EE64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD8F42F6-6341-4E18-8400-E1D19DCAA3FA}
+	EndGlobalSection
+EndGlobal
